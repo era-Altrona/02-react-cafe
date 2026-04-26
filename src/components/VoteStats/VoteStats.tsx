@@ -30,7 +30,7 @@ export const VoteStats = ({
           Total: <strong>{totalVotes}</strong>
         </p>
         <p className={styles.stat}>
-          positiveRateve: <strong>{positiveRate}%</strong>
+           Positive rate: <strong>{positiveRate}%</strong>
         </p>
       </div>
     </div>
